@@ -4,12 +4,12 @@ Test Developer Back-end Python
 
 ----------------- Linux deploy execution ----------------------------
 
-apt-get update
-apt-get install python python-pip virtualenv curl
-virtualenv stormtech_env
-source activate stormtech_env/bin/activate
-pip install flask flask-restful
-python teste.py
+apt-get update<br>
+apt-get install python python-pip virtualenv curl<br>
+virtualenv stormtech_env<br>
+source activate stormtech_env/bin/activate<br>
+pip install flask flask-restful<br>
+python teste.py<br>
 
 --------------------------------------------------------------------
 
